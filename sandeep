@@ -1,0 +1,21 @@
+    1  cd Desktop/
+    2  pwd
+    3  cd MygitExplore/
+    4  pwd
+    5  git config --global user.name"sandeep5599"
+    6  git config --global user.email"nvadlamudi@my.okc.edu"
+    7  history
+    8  ls-al
+    9  Ls-aL
+   10  ls - al
+   11  ls -al
+   12  git init
+   13  ls -al
+   14  nano myfile.txt
+   15  git add .
+   16  git commit -m "This is the first version of myFile.txt"
+   17  git remote add origin https://github.com/sandeep5599/MygitExplore
+   18  git push -u origin master
+   19  history
+   20  history > todayclass11/14
+   21  history > sandeep
